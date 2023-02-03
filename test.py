@@ -1,5 +1,7 @@
 from updater4pyi import upd_source, upd_core
 from updater4pyi.upd_iface_pyqt4 import UpdatePyQt4Interface
+import urllib.request
+
 
 
 
